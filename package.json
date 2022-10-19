@@ -1,0 +1,18 @@
+{
+  "name": "devland-bot",
+  "version": "1.1.0",
+  "description": "Bot for Devland discord server. (discord.gg/yHKBJucAmF)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "github.com/TonyKun7",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "canvas": "^2.10.1",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "util": "^0.12.4"
+  }
+}

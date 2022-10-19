@@ -1,0 +1,16 @@
+{
+    "token" : "TOKEN",
+    "webhookLogs": "WEBHOOK",
+    "guildMainID": "ID",
+    "guildTesterID": "ID",
+    "countChannel" : {
+        "Members": "ID",
+        "Boost": "ID"
+    },
+    "autoRole": [
+        {"id": "ID", "emoji": "Emoji"}
+    ],
+    "staffRole" : [
+        {"id" : "ID", "number": 0}
+    ]
+}
